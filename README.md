@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">Newbie to GitHub</h3>
+<h1 align="center">Hello 🧐🍷, I am Aditya Sharma</h1>
+<h3 align="center">Just started out recently, hoping to achieve a lot more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vi0le-grace&label=Profile%20views&color=0e75b6&style=flat" alt="vi0le-grace" /> </p>
 
 - 🔭 I’m currently working on **DSA**
+
+- 🌱 I’m currently learning **primarily DSA, and exploring some stuff on the side**
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **adityasharma.15080@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
