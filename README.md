@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vi0le-grace&label=Profile%20views&color=0e75b6&style=flat" alt="vi0le-grace" /> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **AIML**
 
-- 🌱 I’m currently learning **primarily DSA, and exploring some stuff on the side**
+- 🌱 I’m currently learning **primarily ML, and exploring some stuff on the side**
 
 - 💬 Ask me about **Anything**
 
